@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://yagorawebcreation.netlify.app/sitemap.xml
